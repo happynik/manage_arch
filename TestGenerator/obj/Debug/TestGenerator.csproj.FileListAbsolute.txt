@@ -1,0 +1,10 @@
+c:\users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\bin\Debug\TestGenerator.exe.config
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\bin\Debug\TestGenerator.exe
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\bin\Debug\Core.dll
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\bin\Debug\Core.pdb
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\obj\Debug\TestGenerator.csprojResolveAssemblyReference.cache
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\obj\Debug\TestGenerator.exe
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\TestGenerator\obj\Debug\TestGenerator.pdb

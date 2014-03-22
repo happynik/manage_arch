@@ -1,0 +1,10 @@
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\bin\Debug\SchemaGenerator.exe.config
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\bin\Debug\SchemaGenerator.exe
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\bin\Debug\SchemaGenerator.pdb
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\bin\Debug\Core.dll
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\bin\Debug\Core.pdb
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\obj\Debug\SchemaGenerator.csprojResolveAssemblyReference.cache
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\obj\Debug\SchemaGenerator.exe
+C:\Users\nikmi_000\documents\visual studio 2013\Projects\ManageArch\SchemaGenerator\obj\Debug\SchemaGenerator.pdb

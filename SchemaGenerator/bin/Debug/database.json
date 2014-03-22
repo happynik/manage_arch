@@ -1,0 +1,10 @@
+{
+	"instructions":[
+		{"name":"Instruction0","isExecute":true,"roles":null,"dependencies":["R1","R2","R3"]},
+	],
+	"components":[
+		{"name":"Component0","isExecute":false,"roles":["R1"],"dependencies":[]},
+		{"name":"Component2","isExecute":false,"roles":["R2"],"dependencies":[]},
+		{"name":"Component3","isExecute":false,"roles":["R3"],"dependencies":[]},
+	]
+}

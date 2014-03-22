@@ -1,0 +1,11 @@
+{
+	"schema":
+	{
+		"components":["Component0","Component2","Component3"],
+		"connections":[
+			{"ComponentFrom":"Instruction0","ComponentTo":"Component0","Role":"R1"},
+			{"ComponentFrom":"Instruction0","ComponentTo":"Component2","Role":"R2"},
+			{"ComponentFrom":"Instruction0","ComponentTo":"Component3","Role":"R3"}
+		]
+	}
+}
