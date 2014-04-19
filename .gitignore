@@ -1,0 +1,12 @@
+.DS_Store
+*.pidb
+*.userprefs
+*.user
+*.suo
+_Resharper*
+obj
+bin
+test-results
+TestResults
+*.nupkg
+/packages
